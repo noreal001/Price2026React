@@ -7,6 +7,6 @@ export default defineConfig({
   server: { host: true },
   preview: {
     host: true,
-    allowedHosts: ['railway.app', 'up.railway.app', 'price2026-production.up.railway.app']
+    allowedHosts: ['.railway.app']
   }
 })
